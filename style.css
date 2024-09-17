@@ -3,5 +3,11 @@
     --cor-texto: #black
     --cor-frente-cartao: #
     --cot-verso-cartao:
+    --preto:
+    --branco:
 }
-body{background-color: var(--fundo) ;}
+body{background-color: var(--fundo) ;
+}
+footer{
+    background-color: black;
+}
