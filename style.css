@@ -3,5 +3,5 @@
     --cor-texto: #black
     --cor-frente-cartao: #
     --cot-verso-cartao:
-
 }
+body{background-color: var(--fundo) ;}
