@@ -1,8 +1,8 @@
-<function>{
-let  container= Document.getElementBytd('container'),
-let cartao= Document.createElement('article'),
-cartaoClassName='cartao',
-cartao.innerHtml='
+function criaCartao(categoria,pergunta,resposta){
+let  container= document.getElementById('container'),
+let cartao= document.createElement('article'),
+cartao ClassName='cartao',
+cartao.innerHtml=`
 <div class = "cartao-conteudo">
 <h3>${categoria}</h3>
 <div class= "cartao-pergunta">
@@ -14,4 +14,3 @@ cartao.innerHtml='
 
 container.appendChild(cartao),
 }
-</function>
