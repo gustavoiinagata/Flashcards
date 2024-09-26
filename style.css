@@ -1,10 +1,10 @@
 :root{
     --fundo: #faeaal
-    --cor-texto: #black
+    --cor-texto: 
     --cor-frente-cartao:
     --cot-verso-cartao:
-    --preto:
-    --branco:
+    --preto: black;
+    --branco: white; 
 }
 body{background-color: var(--fundo) ;
 }
