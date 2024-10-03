@@ -1,10 +1,11 @@
 :root{
-    --fundo: white;
+    --fundo: rgb(196, 179, 221);
     --cor-texto: black;
     --cor-frente-cartao: rgb(150, 141, 177) ;
     --cor-verso-cartao:rgb(150, 141, 177);
     --preto: black;
     --branco: white; 
+
 }
 body{background-color: var(--fundo) ;
 }
