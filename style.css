@@ -1,8 +1,8 @@
 :root{
-    --fundo: white
-    --cor-texto: black
-    --cor-frente-cartao: red 
-    --cot-verso-cartao:blue
+    --fundo: white;
+    --cor-texto: black;
+    --cor-frente-cartao: red ;
+    --cot-verso-cartao:blue;
     --preto: black;
     --branco: white; 
     --destaque: #f43d00
