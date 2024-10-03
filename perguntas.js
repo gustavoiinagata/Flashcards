@@ -6,7 +6,7 @@ criaCartao(
     criaCartao(
         'Filosofia',
         'O que é democracia ateniense?',
-        'A função afim é qualquer função que possua a lei de formação y = ax + b, sendo a e b números reais e a diferente de zero.')
+        'A democracia ateniense foi um regime de governo que envolveu a participação direta dos cidadãos na tomada de decisões.')
 
     criaCartao( 'química',
  'alcinos são hidrocarbonetos:',
