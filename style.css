@@ -5,7 +5,7 @@
     --cot-verso-cartao:blue;
     --preto: black;
     --branco: white; 
-   
+
 body{background-color: var(--fundo) ;
 }
 footer{
@@ -83,4 +83,5 @@ footer{
 
 .cartao-resposta{
     transform: rotateY(180deg);
+}
 }
