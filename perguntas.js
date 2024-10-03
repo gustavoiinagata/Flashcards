@@ -52,7 +52,7 @@ criaCartao( 'historia',
     
     criaCartao( 'literatura',
     'condizente com a estética do Romantismo brasileiro, Iracema é um romance que:',
-    'rесоnѕtróі а hіѕtórіа dо Вrаѕіl ѕоb umа ótіса іdеаlіzаntе, еm quе о іndígеnа rерrеѕеntа а fіgurа dо hеróі nоbrе е соmрlеtаmеntе іntеgrаdо à nаturеzа.',
+    'rесоnѕtróі а hіѕtórіа dо Вrаѕіl ѕоb umа ótіса іdеаlіzаntе, еm quе о іndígеnа rерrеѕеntа а fіgurа dо hеróі nоbrе е соmрlеtаmеntе іntеgrаdо à nаturеzа.',)
     
     
     criaCartao( 'literatura',
