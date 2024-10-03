@@ -21,4 +21,5 @@ function viraCartao(){
     cartao.classList.toggle('active', respostaVisivel);
 }
 cartao.addEventListener('click',viraCartao);
+container.appendChild(cartao);
 }
