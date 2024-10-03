@@ -1,7 +1,7 @@
 :root{
     --fundo: white;
     --cor-texto: black;
-    --cor-frente-cartao: red ;
+    --cor-frente-cartao: rgb(68, 0, 255) ;
     --cot-verso-cartao:blue;
     --preto: black;
     --branco: white; 
