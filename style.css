@@ -5,8 +5,7 @@
     --cot-verso-cartao:blue;
     --preto: black;
     --branco: white; 
-    --destaque: #f43d00
-}
+   
 body{background-color: var(--fundo) ;
 }
 footer{
