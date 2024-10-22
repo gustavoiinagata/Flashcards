@@ -1,0 +1,50 @@
+:root{
+    --fundo: rgb(196, 179, 221);
+    --cor-texto: black;
+    --cor-frente-cartao: rgb(137, 123, 179) ;
+    --cor-verso-cartao:rgb(137, 123, 179);
+    --preto: black;
+    --branco: white; 
+
+}
+body{background-color: var(--fundo) ;
+}
+
+header{
+    background-color: var(--preto);
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+
+header a {
+    color: var(--branco);
+    text-decoration: none;
+}
+
+footer{
+    background-color: black;
+    color:var(--branco);
+    position:fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+#container{
+    display: grid;
+    padding: 2rem;
+    gap: 3rem;
+}
+
+.cartao-conteudo{
+    background-color: var(--cor-frente-cartao);
+    border: 1px solid var(--preto);
+    box-shadow: 5px 6px 20px var(--preto);
+}
+
+.cartao-resposta{
+    background-color: var(--cor-verso-cartao);
+    margin-top: 5px;
+    padding: 20px;
+}
