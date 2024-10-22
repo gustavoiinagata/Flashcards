@@ -9,6 +9,19 @@
 }
 body{background-color: var(--fundo) ;
 }
+
+header{
+    background-color: var(--preto);
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+
+header a {
+    color: var(--branco);
+    text-decoration: none;
+}
+
 footer{
     background-color: black;
     color:var(--branco);
